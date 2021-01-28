@@ -3,9 +3,9 @@
 Hi , I'm [gaozhipeng](https://gaozhipeng.me), an Android Developer from China.
 
 - 🔭 I’m currently working on something cool;
-- 🌱 I’m currently learning 
-- 💬 Ask me about 
-- 📫 How to reach me: gaozhipeng.me
+- 🌱 I’m currently learning kotlin & flutter;
+- 💬 Ask me about something releated to App development and workout💪;
+- 📫 How to reach me: [gaozhipeng.me](https://gaozhipeng.me)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <details>
@@ -15,10 +15,3 @@ Hi , I'm [gaozhipeng](https://gaozhipeng.me), an Android Developer from China.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaozp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </details>
-<!--
-**gaozp/gaozp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
