@@ -1,9 +1,9 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>    ![](https://visitor-badge.glitch.me/badge?page_id=gaozp.gaozp)
 
-Hi , I'm [gaozhipeng](https://gaozhipeng.me), an Android Developer from China.
+Hi , I'm [gaozhipeng](https://gaozhipeng.me), an Android & iOS Developer from China.
 
 - 🔭 I’m currently working on something cool;
-- 🌱 I’m currently learning kotlin & flutter;
+- 🌱 I’m currently learning kotlin & flutter & swift;
 - 💬 Ask me about something releated to App development and workout💪;
 - 📫 How to reach me: [gaozhipeng.me](https://gaozhipeng.me)
 - 😄 Pronouns: ...
